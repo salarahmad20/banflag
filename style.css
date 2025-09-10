@@ -1,0 +1,19 @@
+.flag {
+      width: 300px;
+      height: 200px;
+       background: darkgreen;
+      position: relative;
+      border: 1px solid #000;
+      /* padding-left: 20px; */
+    }
+    .sun {
+      width: 120px;
+      height: 120px;
+      background: darkred;
+      border-radius: 50%;
+      position: relative;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      
+    }
